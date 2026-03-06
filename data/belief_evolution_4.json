@@ -1,0 +1,14 @@
+{
+    "transcript_id": 0,
+    "topic": "oral piercing and its potential effects on teeth and gums",
+    "belief_shifts": [
+        {
+            "pre_shift_sustain_utterance_id": 41,
+            "post_shift_change_utterance_id": 49,
+            "therapist_catalyst_utterance_id": 24,
+            "initial_belief": "I'm not really concerned about the potential risks of the piercing",
+            "new_belief": "I'm willing to consider the potential risks and take action to prevent problems",
+            "mechanism_of_change": "The therapist's input about the potential risks of gum erosion and chipped teeth (ID:24) triggered a shift in the client's perspective. The client initially seemed unconcerned about the risks (ID:17), but after hearing the potential consequences, they began to consider the potential problems (ID:29) and expressed a desire to prevent them (ID:31). The client's language changed from 'I don't know' to 'I don't really wanna wreck my teeth' (ID:31), indicating a shift from a neutral to a more motivated mindset."
+        }
+    ]
+}

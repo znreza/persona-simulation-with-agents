@@ -1,0 +1,22 @@
+{
+    "transcript_id": 0,
+    "topic": "Alcohol use and its health risks",
+    "belief_shifts": [
+        {
+            "pre_shift_sustain_utterance_id": 15,
+            "post_shift_change_utterance_id": 25,
+            "therapist_catalyst_utterance_id": 20,
+            "initial_belief": "Alcohol use is not a problem for me",
+            "new_belief": "Alcohol use poses health risks that I should consider",
+            "mechanism_of_change": "The therapist provided information about the short-term and long-term health risks associated with binge drinking, which led the client to reevaluate their behavior. The client's initial response of 'Well, I didn't know about those things' (ID: 21) indicates a lack of awareness, which the therapist leveraged to create a sense of curiosity and openness to new information. The therapist's input on health risks (ID: 20) was a catalyst for the client's shift in perspective, as they began to consider the potential consequences of their drinking habits."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 23,
+            "post_shift_change_utterance_id": 27,
+            "therapist_catalyst_utterance_id": 24,
+            "initial_belief": "Drinking is a normal and enjoyable part of my social life",
+            "new_belief": "Drinking poses risks to my health that outweigh its benefits",
+            "mechanism_of_change": "The therapist's question about what the client didn't like or worried about their drinking (ID: 24) helped the client to weigh the pros and cons of their behavior. The client's response of 'Well, that was fine until I came here, uh, but now that I know about the health risk, uh, I have something I gotta think about' (ID: 25) indicates a shift in perspective, as they began to consider the potential risks of their drinking habits. The therapist's reflection (ID: 26) helped to solidify this shift, highlighting the client's ambivalence and encouraging them to consider their values and goals."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "transcript_id": 0,
+    "topic": "Weight Loss",
+    "belief_shifts": [
+        {
+            "pre_shift_sustain_utterance_id": 9,
+            "post_shift_change_utterance_id": 15,
+            "therapist_catalyst_utterance_id": 14,
+            "initial_belief": "Fruit intake makes me healthier",
+            "new_belief": "Fruit intake makes me fatter",
+            "mechanism_of_change": "The therapist used a personalized approach to nutrition, pointing out that the client's high fruit juice consumption was likely the cause of their weight rebound. This challenged the client's previous assumption that fruit intake was beneficial, leading to a shift in their belief."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 17,
+            "post_shift_change_utterance_id": 31,
+            "therapist_catalyst_utterance_id": 20,
+            "initial_belief": "Uncertainty about ability to reduce juice consumption",
+            "new_belief": "Confidence in ability to reduce juice consumption",
+            "mechanism_of_change": "The therapist used a scaling question to gauge the client's confidence in reducing their juice consumption. By exploring the reasons for their uncertainty, the client began to recognize their own capacity to make changes, leading to an increase in confidence and motivation."
+        }
+    ]
+}

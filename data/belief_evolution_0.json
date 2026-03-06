@@ -1,0 +1,30 @@
+{
+    "transcript_id": 0,
+    "topic": "Reducing alcohol consumption to prevent health problems",
+    "belief_shifts": [
+        {
+            "pre_shift_sustain_utterance_id": 11,
+            "post_shift_change_utterance_id": 35,
+            "therapist_catalyst_utterance_id": 14,
+            "initial_belief": "Drinking is not a significant health risk",
+            "new_belief": "Drinking at my current level is a significant health risk",
+            "mechanism_of_change": "The therapist presented objective information about the health risks associated with drinking (e.g., heart disease, cancer, liver problems), which challenged the client's existing belief. The client's neutral responses (e.g., 'Hmm', 'Yes') indicate a growing awareness of the risks, and their eventual acknowledgment of the risks ('Not good news') marks a shift in their perspective. This shift is further solidified when the client begins to consider cutting back on their drinking in the next session."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 29,
+            "post_shift_change_utterance_id": 35,
+            "therapist_catalyst_utterance_id": 32,
+            "initial_belief": "I don't like how much I drink, but it's not a problem",
+            "new_belief": "I want to change my drinking habits to avoid negative consequences",
+            "mechanism_of_change": "The therapist reflected the client's words, highlighting the inconsistency between their desire to reduce their drinking and their actual behavior. This reflection helped the client recognize their ambivalence and the negative consequences of their drinking (e.g., depression returning after drinking). The client's eventual expression of a desire to change their drinking habits ('I don't think that I'm ready to cut down to seven drinks a week. That seems like a lot but I would consider cutting back to two drinks a night') marks a shift in their motivation."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 35,
+            "post_shift_change_utterance_id": 39,
+            "therapist_catalyst_utterance_id": 36,
+            "initial_belief": "I'm not ready to cut back on my drinking",
+            "new_belief": "I'm ready to cut back on my drinking",
+            "mechanism_of_change": "The therapist asked the client to rate their readiness to cut back on drinking on a scale of 0 to 10. The client initially rated themselves an 8, indicating a moderate level of readiness. When asked why they didn't rate themselves a 6, the client explained that they wanted to avoid making their depression worse. This self-reflection and acknowledgment of their motivation to change marked a shift in their readiness to take action."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "transcript_id": 0,
+    "topic": "Client's health habits and wife's concerns",
+    "belief_shifts": [
+        {
+            "pre_shift_sustain_utterance_id": 0,
+            "post_shift_change_utterance_id": 4,
+            "therapist_catalyst_utterance_id": 1,
+            "initial_belief": "Health habits are not a concern",
+            "new_belief": "Physical labor may not be enough to counteract unhealthy eating",
+            "mechanism_of_change": "The therapist's reflection (ID:1) helped the client acknowledge their neutral stance on health, allowing them to consider alternative perspectives. The client's subsequent utterance (ID:4) reveals a subtle shift in their thinking, as they start to acknowledge potential negative consequences of their eating habits."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 8,
+            "post_shift_change_utterance_id": 12,
+            "therapist_catalyst_utterance_id": 11,
+            "initial_belief": "Wife's concerns are overblown",
+            "new_belief": "Wife's concerns may be legitimate",
+            "mechanism_of_change": "The therapist's reflection (ID:11) helped the client reframe their wife's concerns as potentially legitimate, rather than overreacting. The client's utterance (ID:12) reveals a greater understanding of their wife's perspective, and a slight softening of their stance on her concerns."
+        },
+        {
+            "pre_shift_sustain_utterance_id": 12,
+            "post_shift_change_utterance_id": 14,
+            "therapist_catalyst_utterance_id": 13,
+            "initial_belief": "No interest in learning about health risks",
+            "new_belief": "Open to learning about health risks",
+            "mechanism_of_change": "The therapist's offer (ID:13) of information on obesity and diabetes created a sense of possibility and opened the client up to considering their wife's concerns. The client's utterance (ID:14) indicates a willingness to learn, marking a shift from resistance to openness."
+        }
+    ]
+}
