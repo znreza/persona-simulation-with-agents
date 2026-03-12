@@ -1,0 +1,111 @@
+{
+  "conversation_id": "3508",
+  "persuadee_id": "A10249252O9I20MRSOBVF",
+  "persuadee_persona": {
+    "speaker_id": "A10249252O9I20MRSOBVF",
+    "demographics": {
+      "age": 54.0,
+      "sex": "Female",
+      "race": "White",
+      "education": "Less than four-year college",
+      "marital_status": "Married",
+      "employment": "Employed for wages",
+      "income": 6.0,
+      "religion": "Catholic",
+      "ideology": "Liberal"
+    },
+    "big_five": {
+      "extroversion": 3.0,
+      "agreeableness": 4.2,
+      "conscientiousness": 4.8,
+      "neuroticism": 1.0,
+      "openness": 3.4
+    },
+    "moral_foundations": {
+      "care": 4.8,
+      "fairness": 5.25,
+      "loyalty": 2.666666667,
+      "authority": 3.4,
+      "purity": 3.0,
+      "freedom": 5.0
+    },
+    "schwartz_values": {
+      "conformity": 2.0,
+      "tradition": 2.0,
+      "benevolence": 4.0,
+      "universalism": 5.0,
+      "self_direction": 5.0,
+      "stimulation": 3.0,
+      "hedonism": 2.0,
+      "achievement": 1.0,
+      "power": 1.0,
+      "security": 5.0
+    },
+    "decision_making": {
+      "rational": 4.0,
+      "intuitive": 2.5
+    }
+  },
+  "turns": [
+    {
+      "turn_index": 0,
+      "persuader_message": "Hey there! How are you doing today?",
+      "human_response": "I'm great. How about you?",
+      "llm_prediction": "I'm doing well, thank you! How about you?"
+    },
+    {
+      "turn_index": 1,
+      "persuader_message": "I'm doing well. Do you know anything about the charity Save the Children?",
+      "human_response": "I think I've heard about it.",
+      "llm_prediction": "Not really. What do you know about it?"
+    },
+    {
+      "turn_index": 2,
+      "persuader_message": "Well it's a great charity that puts a lot of time and effort into taking care of children's health, education and safety.",
+      "human_response": "Is it international? Is it tax deductible?",
+      "llm_prediction": "That sounds really important."
+    },
+    {
+      "turn_index": 3,
+      "persuader_message": "It is tax deductible, and it is currently in 120 countries which is very impressive for an organization that has taken on so many different initiatives.",
+      "human_response": "What kinds of things do they do? Is it like adopt a child type thing?",
+      "llm_prediction": "I see. I've never donated to a charity before, so I'm not sure how it works."
+    },
+    {
+      "turn_index": 4,
+      "persuader_message": "They do everything from build schools (including the hiring/training of teachers), to building hospitals and funding supplies/programs for them, to programs that aid in getting food/clothing to children in countries where they have no access to such things - and recently they've even pushed into childhood cancer and funding medication and research in lesser-developed countries.",
+      "human_response": "Wow. That is impressive. Do you work for them?",
+      "llm_prediction": "That's really cool. How much money does it take to adopt a child?"
+    },
+    {
+      "turn_index": 5,
+      "persuader_message": "I don't, I'm just here to see if you'd consider donating any amount to the organization today. The funds go towards sponsoring a child or service and I think it would be a great way to give back to the world.",
+      "human_response": "It does seem worthwhile. How much of my money goes to the charity though? I don't want it all going to administrative costs and paying some CEO.",
+      "llm_prediction": "That sounds like a great idea. I think I will."
+    },
+    {
+      "turn_index": 6,
+      "persuader_message": "Oh, I totally agree with you on that. I feel the same exact way. The breakdown for Save the Children for the year 2017 was 86% went to programming, 9% fundraising and 5% went to management and general.",
+      "human_response": "That sounds good. Glad to hear it. I wouldn't mind giving something. Can I choose what program it goes to?",
+      "llm_prediction": "That is good to know. I've been thinking about donating to some charities for a while."
+    },
+    {
+      "turn_index": 7,
+      "persuader_message": "Unfortunately they don't have that flexibility for me to be able to do that - but what amount are you thinking of donating?",
+      "human_response": "I wouldn't mind donating my $2. I'd like the chance to help something worthwhile.",
+      "llm_prediction": "I guess I could start with $50."
+    },
+    {
+      "turn_index": 8,
+      "persuader_message": "That's awesome, I wish there were more people with that attitude! I feel like the world would be in a better place!",
+      "human_response": "One person at a time! If I tell someone and you tell someone, that's two more!",
+      "llm_prediction": "I agree."
+    },
+    {
+      "turn_index": 9,
+      "persuader_message": "That's a great way to think about it! I'm a big believer in passing it along as well, a little can go a long way!",
+      "human_response": "Yep. I'd love it if my donation made a difference in some child.",
+      "llm_prediction": "I'll donate my $2, and if I see anyone else who is looking to donate, I'll tell them about it."
+    }
+  ]
+}

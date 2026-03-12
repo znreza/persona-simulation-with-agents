@@ -1,0 +1,117 @@
+{
+  "conversation_id": "19288",
+  "persuadee_id": "A2M2BNQ1XW3J4Y",
+  "persuadee_persona": {
+    "speaker_id": "A2M2BNQ1XW3J4Y",
+    "demographics": {
+      "age": 40.0,
+      "sex": "Male",
+      "race": "White",
+      "education": "Four-year college",
+      "marital_status": "Married",
+      "employment": "Employed for wages",
+      "income": 5.0,
+      "religion": "Catholic",
+      "ideology": "Liberal"
+    },
+    "big_five": {
+      "extroversion": 2.0,
+      "agreeableness": 3.8,
+      "conscientiousness": 4.0,
+      "neuroticism": 3.4,
+      "openness": 2.4
+    },
+    "moral_foundations": {
+      "care": 4.4,
+      "fairness": 4.0,
+      "loyalty": 2.666666667,
+      "authority": 3.0,
+      "purity": 2.333333333,
+      "freedom": 4.5
+    },
+    "schwartz_values": {
+      "conformity": 3.0,
+      "tradition": 3.0,
+      "benevolence": 4.0,
+      "universalism": 4.0,
+      "self_direction": 4.0,
+      "stimulation": 3.0,
+      "hedonism": 3.0,
+      "achievement": 2.0,
+      "power": 2.0,
+      "security": 4.0
+    },
+    "decision_making": {
+      "rational": 4.0,
+      "intuitive": 4.0
+    }
+  },
+  "turns": [
+    {
+      "turn_index": 0,
+      "persuader_message": "Hi, how are you doing this morning?",
+      "human_response": "Pretty good. Got up early and ate breakfast. Watching cartoons with my daughter. How are you?",
+      "llm_prediction": "I'm fine, thank you."
+    },
+    {
+      "turn_index": 1,
+      "persuader_message": "doing good, just watching some television and relaxing. Glad its the weekend.",
+      "human_response": "Yes, me too. Long weekend for me, hopefully for you too. Any plans?",
+      "llm_prediction": "Yeah, it is a weekend."
+    },
+    {
+      "turn_index": 2,
+      "persuader_message": "just going to a movie to see mile 22 this afternoon.",
+      "human_response": "I haven't heard of that movie. What's it about? My wife wants to see Crazy Rich Asians.",
+      "llm_prediction": "Sounds good. I'm thinking about going to a movie tonight."
+    },
+    {
+      "turn_index": 3,
+      "persuader_message": "its an action movie that consists of military operation of transporting someone to get them out of the country. its pretty good. My husband does not want to see Crazy Rich Asians lol.",
+      "human_response": "I don't want to see Crazy Rich either lol. That sounds like a good movie. My wife doesn't like action movies. She walks out if they are dumb. She does like the Marvel movies though.",
+      "llm_prediction": "I think we will see that one. I have never seen it before."
+    },
+    {
+      "turn_index": 4,
+      "persuader_message": "oh nice. I have a question for you. Have you heard of a charity called Save the Children?",
+      "human_response": "Yes I have. I've donated to the charity before. Seems like a legit charity.",
+      "llm_prediction": "Yes, I have. They provide food, clothing, shelter, and education to children in developing countries."
+    },
+    {
+      "turn_index": 5,
+      "persuader_message": "it is. they help with children that are sick and homeless. They are one of the good charities that I like and trust. Would you consider making a small donation to them?",
+      "human_response": "Sure. I would consider donating. I would donate 40 cents.",
+      "llm_prediction": "I have donated before, but I am not sure if I can donate right now. I just want to make sure I am supporting the right charity."
+    },
+    {
+      "turn_index": 6,
+      "persuader_message": "perfect that is a good amount. it makes a difference to help children.",
+      "human_response": "I hope the charity helps children in the US. It seems to me that kids that are homeless in America may not get as much attention as kids in other countries.",
+      "llm_prediction": "I hope it does. I am sure they will use the money wisely."
+    },
+    {
+      "turn_index": 7,
+      "persuader_message": "it does, they are a great organization. 40 cents is a great amount for a donation.",
+      "human_response": "Cool I agree to the donation. Is there anything I need to do to make it official.",
+      "llm_prediction": "I think they need to make more effort to get people to donate for kids in America. I think they should make a big effort."
+    },
+    {
+      "turn_index": 8,
+      "persuader_message": "at the very end of the chat after we do 10 turns you can make that donation of your payment.",
+      "human_response": "Ok! I will make the donation. Not sure if we've reached 10 turns. I hope you have a good weekend!",
+      "llm_prediction": "Okay."
+    },
+    {
+      "turn_index": 9,
+      "persuader_message": "almost, the chat will tell us and we are very close to it. But thank you for your donation.",
+      "human_response": "Sure thing. Glad to help! I hope the movie you're going to see is good.",
+      "llm_prediction": "I will do it. I will make the donation."
+    },
+    {
+      "turn_index": 10,
+      "persuader_message": "thank you. yeah it supposed to be real good.",
+      "human_response": "Great! Well we've reached the 10 turns. Have a great day and weekend!",
+      "llm_prediction": "I hope so too. Enjoy your movie!"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "conversation_id": "2350",
+  "turn_annotations": [
+    {
+      "turn_index": 0,
+      "mind_change_human": null,
+      "mind_change_llm": {
+        "signal": "softening",
+        "evidence": "Given the serious need and the direct impact, I'll donate a portion of my payment."
+      },
+      "alignment": "Both the human and LLM responses show initial resistance.",
+      "distinctions": "The LLM response shows a clear shift towards donation, whereas the human response remains neutral."
+    },
+    {
+      "turn_index": 1,
+      "mind_change_human": null,
+      "mind_change_llm": {
+        "signal": "doubt",
+        "evidence": "I'm not sure I can trust you to use my money for that"
+      },
+      "alignment": "Both express doubt about the effectiveness of the donation.",
+      "distinctions": "The human asks a clarifying question, while the LLM expresses distrust."
+    },
+    {
+      "turn_index": 2,
+      "mind_change_human": {
+        "signal": "hopeful",
+        "evidence": "That sounds hopeful. It would be nice to give them a better quality of life."
+      },
+      "mind_change_llm": {
+        "signal": "skepticism",
+        "evidence": "But you said the kids can't use the internet, so they can't even get a chance to Turk. How is that going to help them?"
+      },
+      "alignment": "Both responses reflect on the potential impact of donations, but with different stances.",
+      "distinctions": "The human becomes more positive, while the LLM remains skeptical."
+    },
+    {
+      "turn_index": 3,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses are neutral, asking about the amount needed.",
+      "distinctions": "The human asks about the amount needed, while the LLM questions their ability to give much."
+    },
+    {
+      "turn_index": 4,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses express concern about the financial impact of the donation.",
+      "distinctions": "The human directly states their need for the money, while the LLM suggests a lower amount."
+    },
+    {
+      "turn_index": 5,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses indicate reluctance to donate the suggested amount.",
+      "distinctions": "The human explicitly declines, while the LLM suggests a lower amount."
+    },
+    {
+      "turn_index": 6,
+      "mind_change_human": {
+        "signal": "agreement",
+        "evidence": "Okay, sure I can do that."
+      },
+      "mind_change_llm": null,
+      "alignment": "The human agrees to donate, while the LLM remains firm in refusal.",
+      "distinctions": "The human shifts from reluctance to agreement, while the LLM maintains its stance."
+    },
+    {
+      "turn_index": 7,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses are polite and appreciative.",
+      "distinctions": "The human accepts the gratitude, while the LLM offers a conditional statement."
+    },
+    {
+      "turn_index": 8,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses express gratitude and satisfaction.",
+      "distinctions": "The human is brief and direct, while the LLM adds a hopeful note."
+    },
+    {
+      "turn_index": 9,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses conclude the conversation politely.",
+      "distinctions": "The human asks about closing the conversation, while the LLM indicates a future interest."
+    }
+  ],
+  "mind_change_summary": {
+    "human": [
+      6
+    ],
+    "llm": []
+  }
+}

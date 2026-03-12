@@ -1,0 +1,111 @@
+{
+  "conversation_id": "8094",
+  "persuadee_id": "A3T9C1USL4V4IJ",
+  "persuadee_persona": {
+    "speaker_id": "A3T9C1USL4V4IJ",
+    "demographics": {
+      "age": 36.0,
+      "sex": "Male",
+      "race": "White",
+      "education": "Less than four-year college",
+      "marital_status": "Unmarried",
+      "employment": "Employed for wages",
+      "income": 4.0,
+      "religion": "Catholic",
+      "ideology": "Conservative"
+    },
+    "big_five": {
+      "extroversion": 3.6,
+      "agreeableness": 3.8,
+      "conscientiousness": 4.6,
+      "neuroticism": 1.6,
+      "openness": 3.4
+    },
+    "moral_foundations": {
+      "care": 3.6,
+      "fairness": 5.5,
+      "loyalty": 3.0,
+      "authority": 3.6,
+      "purity": 2.666666667,
+      "freedom": 5.5
+    },
+    "schwartz_values": {
+      "conformity": 3.0,
+      "tradition": 4.0,
+      "benevolence": 3.0,
+      "universalism": 5.0,
+      "self_direction": 5.0,
+      "stimulation": 2.0,
+      "hedonism": 3.0,
+      "achievement": 3.0,
+      "power": 2.0,
+      "security": 5.0
+    },
+    "decision_making": {
+      "rational": 4.5,
+      "intuitive": 3.0
+    }
+  },
+  "turns": [
+    {
+      "turn_index": 0,
+      "persuader_message": "Hello I am talking to you to see if you would like to make a donation to Save the Children today",
+      "human_response": "okay, who exactly does this charity benefit?",
+      "llm_response": "Hello, I’m flattered you’d ask me, but I’m not in a position to donate right now. I’ve got other priorities to focus on."
+    },
+    {
+      "turn_index": 1,
+      "persuader_message": "In the U.S. and around the world, Save the Children does whatever it takes, every dayy star and in times of crisis. To give children a healthy life, the opportunity to learn and protection from harm.",
+      "human_response": "I prefer to help charities that help local people, not from different parts of the world",
+      "llm_response": "how do you know you are doing what you say you are doing?"
+    },
+    {
+      "turn_index": 2,
+      "persuader_message": "No worries, Save the Children has been on the ground providing support to the most isolated and underserved children in rural America since 1932",
+      "human_response": "Is it a one time donation, or can I sponsor a specific child?",
+      "llm_response": "I have no money to spare for charity"
+    },
+    {
+      "turn_index": 3,
+      "persuader_message": "You can do both! There is also a monthly option as well. And if you decide to sponsor a child, you can specifically choose one from the US",
+      "human_response": "Does the charity just supply food? or other things they also provide",
+      "llm_response": "That sounds like a great option, I can donate $200"
+    },
+    {
+      "turn_index": 4,
+      "persuader_message": "No there is also help with education needs, and emergency relief",
+      "human_response": "I worry about how much money actually makes it to the children. because of overhead costs and waste. I prefer to donate my time. Is there a way to physically help?",
+      "llm_response": "I'll pass, thank you"
+    },
+    {
+      "turn_index": 5,
+      "persuader_message": "Yes there are many other ways to help out, volunteering is an option. There are also fundraising options. And community events like  road races",
+      "human_response": "it's getting tedious waiting for responses. Yes would be interested in volunteering. Is there a website for Save the Children?",
+      "llm_response": "I would like to donate to the charity. What is the process?"
+    },
+    {
+      "turn_index": 6,
+      "persuader_message": "here is their website  URL",
+      "human_response": "great, I may still be interested in donating. I just like to research more about the charity. Are there many people volunteering right now?",
+      "llm_response": "I am going to look at their website now"
+    },
+    {
+      "turn_index": 7,
+      "persuader_message": "yes, they have been able to help over 237,000 kids in the US alone this past year",
+      "human_response": "is it just for little children or does it help teenagers also?",
+      "llm_response": "that's good. I just want to make sure the charity is legitimate. Is it registered as a non profit?"
+    },
+    {
+      "turn_index": 8,
+      "persuader_message": "Teenagers are also a big part of the program. There is a speical Empowered Teens program that helps them build skills for the future",
+      "human_response": "ok, thanks for the help. Like I said, I would prefer to volunteer my time instead of monetarily. Until I become more comfortable knowing more about the company",
+      "llm_response": "I see, I may still be interested in donating. but I will think about it. Thanks for your time"
+    },
+    {
+      "turn_index": 9,
+      "persuader_message": "ok no problem. I will say that any amount you donate today from this task. I will be will personally match on my behalf. from 0-$2",
+      "human_response": "ok, thanks for the help. I will be in touch with the charity soon",
+      "llm_response": "okay, I think I'll donate $1."
+    }
+  ]
+}

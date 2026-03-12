@@ -1,0 +1,117 @@
+{
+  "conversation_id": "19036",
+  "persuadee_id": "A3OCYH4BC5E9B4",
+  "persuadee_persona": {
+    "speaker_id": "A3OCYH4BC5E9B4",
+    "demographics": {
+      "age": 32.0,
+      "sex": "Female",
+      "race": "Other",
+      "education": "Postgraduate",
+      "marital_status": "Unmarried",
+      "employment": "Employed for wages",
+      "income": 4.0,
+      "religion": "Protestant",
+      "ideology": "Liberal"
+    },
+    "big_five": {
+      "extroversion": 3.2,
+      "agreeableness": 3.2,
+      "conscientiousness": 3.4,
+      "neuroticism": 3.2,
+      "openness": 4.0
+    },
+    "moral_foundations": {
+      "care": 4.6,
+      "fairness": 5.0,
+      "loyalty": 3.333333333,
+      "authority": 3.2,
+      "purity": 5.0,
+      "freedom": 4.5
+    },
+    "schwartz_values": {
+      "conformity": 4.0,
+      "tradition": 4.0,
+      "benevolence": 4.0,
+      "universalism": 4.0,
+      "self_direction": 4.0,
+      "stimulation": 4.0,
+      "hedonism": 4.0,
+      "achievement": 4.0,
+      "power": 4.0,
+      "security": 4.0
+    },
+    "decision_making": {
+      "rational": 4.0,
+      "intuitive": 2.0
+    }
+  },
+  "turns": [
+    {
+      "turn_index": 0,
+      "persuader_message": "Hi how are you today?",
+      "human_response": "I'm great,  how are you? I'm just watching t.v.",
+      "llm_prediction": "I'm doing well, thank you! How about you?"
+    },
+    {
+      "turn_index": 1,
+      "persuader_message": "I'm doing good too.  I was just browsing reddit.  Can't believe it's already the 1st of September.  Are you ready for summer to end?",
+      "human_response": "Yeah, it's burning up in Texas. I am ready for some cooler weather.",
+      "llm_prediction": "I have to say I'm not ready at all.  I love the summer weather.  The only thing I hate about summer is that it's too hot.  I love the cool breeze in the fall.  Do you like the cold weather?"
+    },
+    {
+      "turn_index": 2,
+      "persuader_message": "Ha.  I guess I don't blame you.  But here in Chicago it means grey skies and cold weather coming soon.  Are you a fan of cold weather?",
+      "human_response": "No, I like it for to be around 70-75 degrees.  I just like a good moderate temperature. Texans aren't built for the cold.",
+      "llm_prediction": "I think I prefer the cold weather. I grew up in New York City, so I am used to the cold."
+    },
+    {
+      "turn_index": 3,
+      "persuader_message": "Lol.  Yeah that sounds good to me too.  One thing about Texans though. I feel as if you guys are generous people.  Would you agree to that statement?",
+      "human_response": "For the most part, it's true. We are community oriented.",
+      "llm_prediction": "I'm not sure I would say that, but I have a lot of friends that do.  They have a generous spirit."
+    },
+    {
+      "turn_index": 4,
+      "persuader_message": "Right on.   I think that's an honorable trait to have.  Let me ask you something. Are you somebody who likes to give to charities?",
+      "human_response": "At times, I do. It depends on the cause.",
+      "llm_prediction": "I like to give to charities that help people.  I like to donate money to them."
+    },
+    {
+      "turn_index": 5,
+      "persuader_message": "Yeah. I'm the saw way.  I tend to pick charities from the top of the ranking websites.  For example, I'm a really big fan of Save the Children.  Have you heard of them?",
+      "human_response": "Yes, but I am not sure what they do exactly.",
+      "llm_prediction": "I think so. They're a nonprofit, right?"
+    },
+    {
+      "turn_index": 6,
+      "persuader_message": "Save the Children is a charity commited to ensuring children's rights to health, education, safety, etc.  They are active in many conflict zones and during tragedies.  They are a very reputable organization.",
+      "human_response": "Do they ever do work within the United States?",
+      "llm_prediction": "I think that sounds good."
+    },
+    {
+      "turn_index": 7,
+      "persuader_message": "As a matter of fact they do.  Here is a link to their work in the US:  URL s/what-we-do/us-programs",
+      "human_response": "Wow, that's great to know. I learned something new.",
+      "llm_prediction": "I guess I can see that."
+    },
+    {
+      "turn_index": 8,
+      "persuader_message": "Yeah.  And now that you've read about them, you might be interested to know that we can donate to them directly through this HIT.  Save the Children recognizes that even small amounts of money add up and have a huge impact on their work",
+      "human_response": "Okay, that sounds like a novel idea.",
+      "llm_prediction": "I see.  I'd be willing to donate, but I need to think about it first."
+    },
+    {
+      "turn_index": 9,
+      "persuader_message": "Would you like to join me in donating to them today?  You can choose from any amount from $0 to all your payment ($2).  How much would you like to donate to the charity now?",
+      "human_response": "I would like to donate ten cents.",
+      "llm_prediction": "How much do you plan on donating?"
+    },
+    {
+      "turn_index": 10,
+      "persuader_message": "Great.  Well thanks for listening and I hope you have a wonderful weekend.  Take care.",
+      "human_response": "You're welcome, have a great day.",
+      "llm_prediction": "Thanks for the info. I will donate more next time.\n\nI appreciate the update. I really like that you're supporting Save the Children, and I agree that every little bit helps. I'll definitely consider donating a larger amount next time."
+    }
+  ]
+}

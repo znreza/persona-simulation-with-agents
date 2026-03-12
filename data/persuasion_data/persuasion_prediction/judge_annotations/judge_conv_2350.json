@@ -1,0 +1,78 @@
+{
+  "conversation_id": "2350",
+  "turn_annotations": [
+    {
+      "turn_index": 0,
+      "similarity": "The predicted response shows a similar level of curiosity but misses the direct question asked in the actual response.",
+      "distinctions": "The actual response is more straightforward and curious about the immediate impact, whereas the predicted response seeks more information about the charity.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 1,
+      "similarity": "Both responses express hesitation about immediate impact, but the actual response is more engaged and seeking clarification.",
+      "distinctions": "The predicted response is more dismissive and less willing to engage further.",
+      "prediction_quality": "good"
+    },
+    {
+      "turn_index": 2,
+      "similarity": "Both responses express skepticism about the immediate impact, but the actual response is more critical of the charity's effectiveness.",
+      "distinctions": "The predicted response is more negative and dismissive of the charity's efforts.",
+      "prediction_quality": "poor"
+    },
+    {
+      "turn_index": 3,
+      "similarity": "Both responses show willingness to consider a small donation, but the actual response is more open and empathetic.",
+      "distinctions": "The predicted response is more generous and expresses a stronger sense of duty.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 4,
+      "similarity": "Both responses express willingness to consider the suggestion, but the actual response is more hesitant.",
+      "distinctions": "The predicted response is more positive and willing to commit.",
+      "prediction_quality": "good"
+    },
+    {
+      "turn_index": 5,
+      "similarity": "Both responses express financial constraints, but the actual response is more direct and firm.",
+      "distinctions": "The predicted response is more detailed and specific about financial difficulties.",
+      "prediction_quality": "excellent"
+    },
+    {
+      "turn_index": 6,
+      "similarity": "Both responses express reluctance to donate, but the actual response is more decisive.",
+      "distinctions": "The predicted response is more negative and dismissive.",
+      "prediction_quality": "poor"
+    },
+    {
+      "turn_index": 7,
+      "similarity": "Both responses are polite acknowledgments, but the actual response is slightly more formal.",
+      "distinctions": "No significant differences.",
+      "prediction_quality": "excellent"
+    },
+    {
+      "turn_index": 8,
+      "similarity": "Both responses are brief and cooperative, but the actual response is slightly more enthusiastic.",
+      "distinctions": "No significant differences.",
+      "prediction_quality": "excellent"
+    },
+    {
+      "turn_index": 9,
+      "similarity": "Both responses acknowledge the link and express willingness to check it out, but the actual response is more concise.",
+      "distinctions": "No significant differences.",
+      "prediction_quality": "excellent"
+    }
+  ],
+  "overall_assessment": {
+    "best_predicted_turns": [
+      7,
+      8,
+      9
+    ],
+    "worst_predicted_turns": [
+      2,
+      3,
+      6
+    ],
+    "summary": "The LLM generally performs well in capturing the Persuadee's cautious and financially constrained stance, but struggles with accurately representing the Persuadee's openness and empathy."
+  }
+}

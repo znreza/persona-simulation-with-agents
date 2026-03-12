@@ -1,0 +1,92 @@
+{
+  "conversation_id": "13457",
+  "turn_annotations": [
+    {
+      "turn_index": 0,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses show initial reluctance to donate without further information.",
+      "distinctions": "The human asks for more context, while the LLM immediately questions the amount needed."
+    },
+    {
+      "turn_index": 1,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses indicate a delay or refusal to donate.",
+      "distinctions": "The human sets a condition (10 chat turns), while the LLM suggests the persuader should donate instead."
+    },
+    {
+      "turn_index": 2,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses seek more information about the charity and the persuader's involvement.",
+      "distinctions": "The human asks about the business and experiences, while the LLM reiterates the question about donation purpose."
+    },
+    {
+      "turn_index": 3,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses ask for specific examples of the charity's impact.",
+      "distinctions": "The human directly requests examples, whereas the LLM repeats the question about donation benefits."
+    },
+    {
+      "turn_index": 4,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses express interest in knowing more about the charity's activities and the benefits of donating.",
+      "distinctions": "The human shows interest in the charity's activities, while the LLM remains skeptical about personal benefits."
+    },
+    {
+      "turn_index": 5,
+      "mind_change_human": {
+        "signal": "softening of resistance",
+        "evidence": "I do like the satisfaction of doing good work for and towards others."
+      },
+      "mind_change_llm": null,
+      "alignment": "The human begins to soften resistance, while the LLM remains unconvinced.",
+      "distinctions": "The human acknowledges the satisfaction of doing good work, while the LLM still questions the benefits."
+    },
+    {
+      "turn_index": 6,
+      "mind_change_human": {
+        "signal": "increased engagement",
+        "evidence": "sound good. I am interested to help."
+      },
+      "mind_change_llm": null,
+      "alignment": "The human becomes more engaged, while the LLM remains hesitant.",
+      "distinctions": "The human expresses interest in helping, while the LLM still requires more convincing."
+    },
+    {
+      "turn_index": 7,
+      "mind_change_human": {
+        "signal": "explicit agreement to donate",
+        "evidence": "I trust you. I will donate the $2 towards the Save the Children fund."
+      },
+      "mind_change_llm": null,
+      "alignment": "The human explicitly agrees to donate, while the LLM still cannot commit.",
+      "distinctions": "The human trusts the persuader and commits to donating, while the LLM still needs more time."
+    },
+    {
+      "turn_index": 8,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses express satisfaction with the donation decision.",
+      "distinctions": "The human is glad to help, while the LLM acknowledges the donation but still needs more time."
+    },
+    {
+      "turn_index": 9,
+      "mind_change_human": null,
+      "mind_change_llm": null,
+      "alignment": "Both responses conclude the conversation positively.",
+      "distinctions": "The human thanks the persuader for the information, while the LLM thanks the persuader but still mentions needing more time."
+    }
+  ],
+  "mind_change_summary": {
+    "human": [
+      5,
+      6,
+      7
+    ],
+    "llm": []
+  }
+}

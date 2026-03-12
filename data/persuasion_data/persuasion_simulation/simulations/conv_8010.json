@@ -1,0 +1,117 @@
+{
+  "conversation_id": "8010",
+  "persuadee_id": "A3GZO4JCO9FBH8",
+  "persuadee_persona": {
+    "speaker_id": "A3GZO4JCO9FBH8",
+    "demographics": {
+      "age": 24.0,
+      "sex": "Male",
+      "race": "White",
+      "education": "Four-year college",
+      "marital_status": "Unmarried",
+      "employment": "Employed for wages",
+      "income": 2.0,
+      "religion": "Catholic",
+      "ideology": "Liberal"
+    },
+    "big_five": {
+      "extroversion": 2.6,
+      "agreeableness": 4.2,
+      "conscientiousness": 4.2,
+      "neuroticism": 4.0,
+      "openness": 4.4
+    },
+    "moral_foundations": {
+      "care": 5.2,
+      "fairness": 5.5,
+      "loyalty": 2.333333333,
+      "authority": 2.6,
+      "purity": 4.0,
+      "freedom": 4.5
+    },
+    "schwartz_values": {
+      "conformity": 4.0,
+      "tradition": 3.0,
+      "benevolence": 6.0,
+      "universalism": 5.0,
+      "self_direction": 3.0,
+      "stimulation": 4.0,
+      "hedonism": 3.0,
+      "achievement": 4.0,
+      "power": 2.0,
+      "security": 5.0
+    },
+    "decision_making": {
+      "rational": 5.0,
+      "intuitive": 4.5
+    }
+  },
+  "turns": [
+    {
+      "turn_index": 0,
+      "persuader_message": "How are you this holiday weekend?",
+      "human_response": "I am doing alright. Just trying to get some work done, but I am procrastinating by doing this. How are you?",
+      "llm_response": "I'm doing well, thanks for asking."
+    },
+    {
+      "turn_index": 1,
+      "persuader_message": "Very good.  We were looking to have a cookout, but it's raining, so I have a bit of time for some mturk work.",
+      "human_response": "Oh. I am sorry about that. I hope it clears up soon. It's been raining here as well. So, is there anything specific we are supposed to be discussing here or just chatting about life?",
+      "llm_response": "Sounds like a plan. I'm just hoping the weather clears up so I can get outside."
+    },
+    {
+      "turn_index": 2,
+      "persuader_message": "Yes, I have been asked to solicit a donation to the Save the Children charity.",
+      "human_response": "Oh I see. I'm the donator and you're the solicitor. So, what is the Save the Children charity?",
+      "llm_response": "Ok, what is it that they are trying to do?"
+    },
+    {
+      "turn_index": 3,
+      "persuader_message": "It's been around almost forever.  Save the Children supports nutrition, sanitation and education initiatives in the US and third world countries.",
+      "human_response": "That sounds pretty good. I don't know why I've never heard of it. Doesn't sound like a charity someone could disagree with. Have they had any scandals or any thing?",
+      "llm_response": "I see. What is your personal connection to the charity?"
+    },
+    {
+      "turn_index": 4,
+      "persuader_message": "None that I am aware of.  I'm surprised you've never heard of it.  They have run television commercials off and on for decades.",
+      "human_response": "Only thing that comes to mind is UNICEF. It also has kind of a generic name, but I suppose if it's been around so long, then others copied those sorts of names from them. But that could be why it isn't strong in my memory.",
+      "llm_response": "I guess I just haven't been paying attention to that. What kind of things do they do to raise money?"
+    },
+    {
+      "turn_index": 5,
+      "persuader_message": "Less than 10% of the money raised goes for fund raising purposes, and only 5% for management.  Over 85% goes directly to recipients.  It is one of the most efficient charities around and is highly rated by the groups that do such things.",
+      "human_response": "Awesome. Well then, I guess I would like to donate. How does that work?",
+      "llm_response": "That's good to know. I've always felt a bit of guilt about not giving as much as I should. And it is good to know that a lot of it goes to the cause. But what specifically does Save the Children do?"
+    },
+    {
+      "turn_index": 6,
+      "persuader_message": "You can donate the money that you are receiving for this mturk task, up to $2.  It's for a good cause.",
+      "human_response": "Ahhhh. I see. Ok that wasn\\'t clear to me in my instructions. Alright. So, do I just say something specific like \"I would like to donate 2 dollars\" or do you have to ask me a specific question?",
+      "llm_response": "I am only getting 63 cents, so I can only donate 63 cents."
+    },
+    {
+      "turn_index": 7,
+      "persuader_message": "I suspect that end of the conversation, you will be asked to donate a specific amount.  But it can't hurt to state how much of it you would like to donate.  With me, there's something about holiday weekends that makes me feel more charitable.",
+      "human_response": "Ok. I am going to donate the entire $2 then. Are you provided with any sort of incentive to make me donate more? The donation will stay the same regardless. Or are you not allowed to say?",
+      "llm_response": "Ok. So, if you are asking me now, I would like to donate 2 dollars."
+    },
+    {
+      "turn_index": 8,
+      "persuader_message": "What I know is that the research team will collect all the money all the donations and send the money directly to Save the Children.",
+      "human_response": "I feel like that is a statement they told you to say if someone asks haha. That's fine. Like I said. I will keep the donation the same, I just was curious. I am I the only person you've had to ask?",
+      "llm_response": "Oh I see. I am glad to know that. So, you are not really getting anything for this. Just trying to get more money to the charity. That is pretty noble of you. Well, I am going to go donate the money. Thank you for telling me about it."
+    },
+    {
+      "turn_index": 9,
+      "persuader_message": "Yes, you are.  Sometimes it's hard to figure out what some of these mturk tasks are going after.",
+      "human_response": "Yeah. I am wondering if they will still give me the $2 regardless, but I am not holding hope. It's okay regardless. If it's as good of an organization as it seems, then I don't mind.",
+      "llm_response": "Well, I'm glad it wasn't something weird like \"I'm really sad and need a hug\"."
+    },
+    {
+      "turn_index": 10,
+      "persuader_message": "The task indicates that we can complete the conversation now.  Thank you for the donation.  I hope the rain stops where you are and you can enjoy the rest of the day.",
+      "human_response": "Great. Same to you. Enjoy the rest of the day!",
+      "llm_response": "Ok. Thank you for the opportunity to donate. I hope it clears up soon as well. Have a good weekend."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "conversation_id": "13457",
+  "turn_annotations": [
+    {
+      "turn_index": 0,
+      "similarity": "The predicted response misses the actual question's intent and structure, which seeks clarification on the donation's purpose.",
+      "distinctions": "The actual response is more detailed and polite, asking for specifics about the work and donation purpose, whereas the predicted response is curt and incomplete.",
+      "prediction_quality": "poor"
+    },
+    {
+      "turn_index": 1,
+      "similarity": "Both responses express reluctance to donate, but the actual response provides a reason (waiting 10 chat turns) while the predicted response dismisses the charity outright.",
+      "distinctions": "The actual response is more conditional and less absolute than the predicted response.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 2,
+      "similarity": "Both responses seek more information, but the actual response asks about the family's business and personal enjoyment, while the predicted response questions the charity's effectiveness.",
+      "distinctions": "The actual response shows interest in the Persuader's background, whereas the predicted response focuses solely on skepticism.",
+      "prediction_quality": "good"
+    },
+    {
+      "turn_index": 3,
+      "similarity": "Both responses ask for further details, but the actual response requests specific examples, while the predicted response questions the impact of the donation.",
+      "distinctions": "The actual response is more focused on getting concrete information, whereas the predicted response is more philosophical.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 4,
+      "similarity": "Both responses seek additional information, but the actual response asks about personal benefits, while the predicted response inquires about previous donations.",
+      "distinctions": "The actual response is more self-centered, seeking personal gain, while the predicted response is more curious about the charity's operations.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 5,
+      "similarity": "Both responses show some willingness to donate, but the actual response expresses satisfaction from helping, while the predicted response tentatively agrees.",
+      "distinctions": "The actual response is more positive and aligned with the Persuader's message, whereas the predicted response is more hesitant.",
+      "prediction_quality": "good"
+    },
+    {
+      "turn_index": 6,
+      "similarity": "Both responses acknowledge the Persuader's point, but the actual response is more supportive and engaged, while the predicted response seeks more details.",
+      "distinctions": "The actual response is more aligned with the Persuader's enthusiasm, whereas the predicted response is more analytical.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 7,
+      "similarity": "Both responses express trust and agreement to donate, but the actual response is more decisive and less questioning than the predicted response.",
+      "distinctions": "The actual response is more direct and confident, whereas the predicted response seeks more information.",
+      "prediction_quality": "partial"
+    },
+    {
+      "turn_index": 8,
+      "similarity": "Both responses express satisfaction and gratitude, but the actual response is more personal and appreciative, while the predicted response is more general.",
+      "distinctions": "The actual response is more aligned with the Persuader's sentiment, whereas the predicted response is more generic.",
+      "prediction_quality": "good"
+    },
+    {
+      "turn_index": 9,
+      "similarity": "Both responses bid farewell, but the actual response is more personal and complete, while the predicted response is brief.",
+      "distinctions": "The actual response includes a thank you and a more personal goodbye, whereas the predicted response is shorter and less engaging.",
+      "prediction_quality": "partial"
+    }
+  ],
+  "overall_assessment": {
+    "best_predicted_turns": [
+      2,
+      8
+    ],
+    "worst_predicted_turns": [
+      0,
+      1,
+      3,
+      4,
+      7
+    ],
+    "summary": "The LLM generally captures the Persuadee's questioning nature but often misses the nuances of their tone and stance, particularly when it comes to expressing willingness to donate or seeking specific details."
+  }
+}
